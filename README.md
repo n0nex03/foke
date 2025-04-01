@@ -1,21 +1,16 @@
 # Foke
 
-Foke is a dedicated tool for Windows that provides an intuitive interface for John the Ripper, a powerful password cracking tool.
+Foke is a tool designed to simplify the use of **Red-John**, allowing you to run it without having to type complex commands. You can simply specify the file path and run it easily with the command `python foke.py`.
 
-## Features
+## Description
 
-- **User-Friendly Interface**: Streamlined interface making John the Ripper easy to use for everyone.
-- **Virus Handling**: Special tools designed to handle Windows viruses, ensuring no payload interference.
-
-## Requirements
-
-- **Operating System**: Windows
-- **Python Version**: Python 1.1.3 or higher
+Foke aims to make using **Red-John** easier by streamlining the process and reducing the need for complex commands. All you need to do is specify the file path you want to process, and then you can run the file with the simple command `python foke.py`.
 
 ## Installation
 
-1. **Clone the repository**:
-    ```bash
+1. Make sure you have **Python** installed on your system. You can download it from [here](https://www.python.org/downloads/).
+2. Clone the repository using Git:
+   ```bash
     git clone https://github.com/n0nex03/foke.git
     cd foke
     python3 foke.py
