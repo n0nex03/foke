@@ -26,12 +26,6 @@ Foke is a dedicated tool for Windows that provides an intuitive interface for Jo
 - Follow the on-screen instructions after running the tool.
 - For advanced configurations, refer to the documentation provided within the tool.
 
-## Contributing
-
-We welcome contributions! Here's how you can help:
-- Report bugs and issues
-- Suggest new features
-- Submit pull requests
 
 ## Support
 
