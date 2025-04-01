@@ -1,10 +1,10 @@
 # Foke
 
-Foke is a tool designed to simplify the use of **Red-John**, allowing you to run it without having to type complex commands. You can simply specify the file path and run it easily with the command `python foke.py`.
+Foke is a tool designed to simplify the use of **John the ripper**, allowing you to run it without having to type complex commands. You can simply specify the file path and run it easily with the command `python foke.py`.
 
 ## Description
 
-Foke aims to make using **Red-John** easier by streamlining the process and reducing the need for complex commands. All you need to do is specify the file path you want to process, and then you can run the file with the simple command `python foke.py`.
+Foke aims to make using **John the ripper** easier by streamlining the process and reducing the need for complex commands. All you need to do is specify the file path you want to process, and then you can run the file with the simple command `python foke.py`.
 
 ## Installation
 
