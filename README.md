@@ -1,3 +1,5 @@
+<img src= 'https://github.com/n0nex03/foke/blob/main/Screenshot%20From%202025-04-01%2017-34-52.png' alt='img'>
+
 # Foke
 
 Foke is a tool designed to simplify the use of **John the ripper**, allowing you to run it without having to type complex commands. You can simply specify the file path and run it easily with the command `python foke.py`.
