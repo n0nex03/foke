@@ -22,6 +22,7 @@ Foke aims to make using **John the ripper** easier by streamlining the process a
 
 - Follow the on-screen instructions after running the tool.
 - For advanced configurations, refer to the documentation provided within the tool.
+- youtube_link: https://youtu.be/e0CBulg7F9o?si=4ebgiG0W2S5ejPWc
 
 
 ## Support
