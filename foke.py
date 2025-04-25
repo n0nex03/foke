@@ -12,7 +12,7 @@ init(autoreset=True)
 def banner():
     """Display the banner information."""
     print(f"{Fore.CYAN}version: {Version}")
-    print(f"{Fore.GREEN}[✨] Do you wanna buy me a coffee☕? > https://ko-fi.com/lose_sec")
+    print(f"{Fore.GREEN}[✨] Do you wanna buy me a coffee☕? > https://ko-fi.com/n0nex03")
     print("")
 
 def john_install():
