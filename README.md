@@ -33,9 +33,9 @@ If you need help or have any questions, feel free to open an issue on GitHub.
 
 Your support is appreciated! If you find this tool useful, consider making a donation:
 
-<a href="https://ko-fi.com/n0nex03">
-  <img src="https://github.com/losesec/profile/blob/a28d95b5c19b6792bbd78417b979eedb90ea8ab8/kofi1.png" alt="Support Me" width="150" />
-</a>
+- **USDT(TR20)**: TR7NHqjeKQxGTCi8q8ZY4pL8otSzgjLj6t
+- **BITCOIN(BTC)**: 3Fa938teyhMwyRMGwaiaBwEkL1EJiTJAPJ
+
 
 ---
 
